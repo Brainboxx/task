@@ -1,6 +1,6 @@
 # Task Scheduler App
 
-Task Scheduler is a simple React app for managing your tasks. It includes features such as adding new tasks, viewing all tasks, and editing existing tasks.
+Task is a simple React app for managing your tasks. It includes features such as adding new tasks, viewing all tasks, and editing existing tasks.
 
 ## How to Run the App
 
