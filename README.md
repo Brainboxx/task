@@ -39,6 +39,7 @@ Task Scheduler is a simple React app for managing your tasks. It includes featur
   - react-router-dom: Declarative routing for React.js.
   - axios: Promise-based HTTP client for the browser and Node.js.
   - json-server: A simple, zero-config JSON file-based server for development.
+  - Tailwind CSS: A utility-first CSS framework.
 
   # Design Choices
   - React: Chosen for its component-based architecture, making it easy to manage and reuse UI components.
@@ -46,6 +47,7 @@ Task Scheduler is a simple React app for managing your tasks. It includes featur
   - axios: Used for making HTTP requests to the dummy backend.
   - json-server: Used as a lightweight and easy-to-set-up dummy backend for simulating API responses during development.
   - Responsive Design: Implemented responsive design using media queries to ensure a good user experience on various devices.
+  - Tailwind CSS: Chosen for its utility-first approach, making it easy to style components and achieve a consistent design. It is also highly customizable and integrates well with React.
 
    
 
