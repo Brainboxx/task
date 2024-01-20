@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Online Tutorial",
+      "description": "Tutor students on the topic \"Object-Oriented Programming\"",
+      "due_date": "2024-01-26",
+      "status": "pending"
+    },
+    {
+      "title": "Write a project",
+      "description": "Write a project about how Technology impacts the world",
+      "due_date": "12-03-2024",
+      "status": "completed",
+      "id": "1"
+    },
+    {
+      "title": "Write a project",
+      "description": "Write a project about how Technology impacts the world",
+      "due_date": "12-03-2024",
+      "status": "pending",
+      "id": "1"
+    },
+    {
+      "id": "82ae",
+      "title": "write an assignment",
+      "description": "Assignment about impact of python in Artificial intelligence",
+      "due_date": "2024-01-25",
+      "status": "completed"
+    }
+  ]
+}
